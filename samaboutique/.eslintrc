@@ -1,0 +1,3 @@
+{
+  "extends": ["netx/babel","@sanity/eslint-config-studio"]
+}
