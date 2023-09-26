@@ -81,7 +81,7 @@ const ProductDetails = ({ product, products }) => {
                   </div> 
               </div>
       </div>
-      </div>
+    </div>
           
         
        
